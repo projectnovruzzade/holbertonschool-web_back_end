@@ -4,7 +4,7 @@
 """
 from typing import List
 
-def sum_list(input_list: List[float]) -> str:
+def sum_list(input_list: List[float]) -> float:
     """
     this is internal
     """
