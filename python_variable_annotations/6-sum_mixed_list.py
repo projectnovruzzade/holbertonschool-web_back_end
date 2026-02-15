@@ -9,4 +9,4 @@ def sum_mixed_list(mxd_lst: List[int  | float]) -> float:
     """
     this is internal
     """
-    return sum(mxd_lst)
+    return float(sum(mxd_lst))
