@@ -8,4 +8,4 @@ def concat(str1: str, str2: str) -> str:
     """
     this is internal
     """
-    return str(a) + str(b)
+    return str1 + str2
