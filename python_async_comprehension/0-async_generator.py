@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""ok ."""
+"""
+everything is okay bro wtf
+"""
 
 import asyncio
 import random
