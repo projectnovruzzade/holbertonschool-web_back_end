@@ -6,5 +6,5 @@ SELECT
         ELSE split - formed
     END) AS lifespan
 FROM bands
-WHERE style LIKE '%Glam rock%'
+WHERE genre LIKE '%Glam rock%'
 ORDER BY lifespan DESC;
